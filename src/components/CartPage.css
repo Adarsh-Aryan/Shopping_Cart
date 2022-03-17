@@ -1,0 +1,27 @@
+.cart_section{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 2rem auto;
+}
+
+.summary{
+    background-color: rgb(22, 17, 17);
+    color: white;
+    padding: 1rem;
+    width: 25%;
+    height: 80vh;
+}
+
+.list-group{
+    width:78%;
+    margin-right: 20px;
+}
+
+.quantity{
+    cursor:pointer
+}
+
+.list-group-item{
+    margin: 10px 0px;
+}

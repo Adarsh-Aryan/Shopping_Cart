@@ -1,0 +1,19 @@
+.cart_item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:12px 0px;
+}
+
+.cart_item img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+}
+
+.item_details{
+    flex: 1;
+    font-size: 12px;
+    margin: 0px 8px;
+}
